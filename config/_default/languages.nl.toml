@@ -1,7 +1,7 @@
-languageCode = "en"
-languageName = "English"
+languageCode = "nl"
+languageName = "Dutch"
 weight = 1
-title = "Blowfish"
+title = "Yi Fong Au"
 
 [params]
   displayName = "EN"
@@ -13,10 +13,10 @@ title = "Blowfish"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
-# [author]
-#   name = "Your name here"
+[author]
+  name = "Yi Fong Au"
 #   image = "img/blowfish_logo.png"
-#   headline = "I'm only human"
+  headline = "Schrijver"
 #   bio = "A little bit about you"
 #   links = [
 #     { email = "mailto:hello@your_domain.com" },

@@ -1,8 +1,6 @@
 # Introduction
 
 This project contains the source files for my blog and portfolio
-website. 
-
-It is build with Hugo uses the [blowfish
+website, build with Hugo. It uses the [blowfish
 theme](https://blowfish.page/).
 

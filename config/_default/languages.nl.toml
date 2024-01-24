@@ -1,7 +1,7 @@
 languageCode = "nl"
 languageName = "Dutch"
 weight = 1
-title = "Yi Fong Au"
+title = "yifongau.nl"
 
 [params]
   displayName = "EN"
@@ -16,11 +16,12 @@ title = "Yi Fong Au"
 [author]
   name = "Yi Fong Au"
 #   image = "img/blowfish_logo.png"
-  headline = "Schrijver"
-#   bio = "A little bit about you"
-#   links = [
+#  headline = "Schrijver"
+#  bio = "A little bit about you"
+   links = [
 #     { email = "mailto:hello@your_domain.com" },
-#     { link = "https://link-to-some-website.com/" },
+#     { link = "https://tijdschriftskut.nl" },
+#     { link = "https://pasuit.nl" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
 #     { blogger = "https://username.blogspot.com/" },
@@ -62,4 +63,4 @@ title = "Yi Fong Au"
 #     { whatsapp = "https://wa.me/phone-number" },
 #     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
-#   ]
+   ]
